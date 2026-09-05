@@ -13,17 +13,20 @@
 
 </div>
 
-const shubham = {
-  name: "Shubham Kumar",
-  role: "2nd Year CS AI Student",
+## 👨‍💻 Who I Am
 
-  skills: [
-    "C",
-    "Python",
-    "Responsive Web Design",
-    "Supabase",
-    "DBMS"
-  ],
+I'm **Shubham Kumar**, a **2nd Year CS AI Student** passionate about technology, problem-solving, and building practical projects.
+
+```text
+🎓 CS AI Student
+💻 C • Python
+🌐 Responsive Web Design
+🗄️ Supabase • DBMS
+🤖 Currently building: Karigar AI
+🧠 Exploring: AI & Web Development
+🚀 Goal: Learn, Build & Create
+```
+
 
   building: "Karigar AI 🤖",
 
