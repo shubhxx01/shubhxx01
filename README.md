@@ -15,31 +15,54 @@
 
 ## 👨‍💻 Who I Am
 
-I'm **Shubham Kumar**, a **2nd Year CS AI Student** passionate about technology, problem-solving, and building practical projects.
+<details>
+<summary><strong>🤖 What I'm Building</strong></summary>
 
-```text
-🎓 CS AI Student
-💻 C • Python
-🌐 Responsive Web Design
-🗄️ Supabase • DBMS
-🤖 Currently building: Karigar AI
-🧠 Exploring: AI & Web Development
-🚀 Goal: Learn, Build & Create
-```
+<br>
 
+🚀 **Karigar AI**
 
-  building: "Karigar AI 🤖",
+Currently working on **Karigar AI**, exploring how AI and modern technology can be used to build practical solutions.
 
-  learning: [
-    "Artificial Intelligence",
-    "Web Development",
-    "Database Systems"
-  ],
+</details>
 
-  mindset: "Learn • Build • Improve",
+<details>
+<summary><strong>🧠 What I'm Learning</strong></summary>
 
-  status: "Currently Learning & Building 🚀"
-};
+<br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-ff1744?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-ff1744?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Database%20Systems-ff1744?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</details>
+
+<details>
+<summary><strong>⚡ My Mindset</strong></summary>
+
+<br>
+
+> **Learn → Build → Improve → Repeat 🔥**
+
+I believe the best way to learn technology is by actually building things, experimenting, making mistakes, and improving along the way.
+
+</details>
+
+<details>
+<summary><strong>📊 Current Status</strong></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Currently%20Learning%20%26%20Building-ff1744?style=for-the-badge" />
+
+<br><br>
+
+🎓 **2nd Year CS AI Student**
+🤖 **Building:** Karigar AI
+🧠 **Learning:** AI & Web Development
+🚀 **Status:** Always Building
+
+</details>
 🚀 Featured Project
 
 🧑‍🎨 Karigar AI
