@@ -13,17 +13,30 @@
 
 </div>
 
-👨‍💻 Who I Am
-
 const shubham = {
-  title: "2nd Year CS AI Student",
-  stack: ["C", "Python", "Responsive Web Design", "Supabase", "DBMS"],
-  project: "Karigar AI",
-  certifications: "Currently Learning",
-  status: "Building & Learning",
-  interests: ["AI", "Web Development", "Database Systems"]
-};
+  name: "Shubham Kumar",
+  role: "2nd Year CS AI Student",
 
+  skills: [
+    "C",
+    "Python",
+    "Responsive Web Design",
+    "Supabase",
+    "DBMS"
+  ],
+
+  building: "Karigar AI 🤖",
+
+  learning: [
+    "Artificial Intelligence",
+    "Web Development",
+    "Database Systems"
+  ],
+
+  mindset: "Learn • Build • Improve",
+
+  status: "Currently Learning & Building 🚀"
+};
 🚀 Featured Project
 
 🧑‍🎨 Karigar AI
